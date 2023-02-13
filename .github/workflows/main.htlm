@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script type="text/javascript" src="./assets/js/script.js"></script>
+	<script type="text/javascript" src="./assets/js/fontawsomepro.js"></script>
+	<link rel="stylesheet" href="./assets/css/style.css">
+	<link rel="stylesheet" href="./assets/css/particles.css">
+	<title>Info Thevenrex</title>
+</head>
+<body>
+	<div class="page-bg"></div>
+	<div class="animation-wrapper">
+		<div class="particle particle-1"></div>
+		<div class="particle particle-2"></div>
+		<div class="particle particle-3"></div>
+		<div class="particle particle-4"></div>
+	</div>
+	<div class="main">
+		<div class="before">
+			<h1>click to enter<h1>
+			</div>
+			<div class="after">
+				<div class="top">
+					<h1>ThevenRex<span class="small">Dev</span></h1>
+					<div class="socials">
+						<a href="https://www.tiktok.com/@Alex20x7o" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+						<a href="https://github.com/TheAlexH4K" target="_blank"><i class="fa-brands fa-github"></i></a>
+						<a href="https://t.me/Alex20x7o" target="_blank"><i class="fa-brands fa-telegram"></i></a>
+					</div>
+				</div>
+				<div class="divider">
+					<i class="fa-light fa-plus"></i>
+					<span class="line"></span>
+					<i class="fa-light fa-plus"></i>
+				</div>
+				<div class="bio">
+					<h1>Bio<span class="small"><i class="fa-thin fa-code"></i></span></h1>
+					<div class="text-bio">
+						<p class="text-center">Jr developer</p>
+						<p class="text-center">I'm Alex And 16 years old developer</p>
+					</div>
+				</div>
+			</div>
+		</div>
+</body>
+</html>
