@@ -9,7 +9,7 @@
 	<script type="text/javascript" src="./assets/js/fontawsomepro.js"></script>
 	<link rel="stylesheet" href="./assets/css/style.css">
 	<link rel="stylesheet" href="./assets/css/particles.css">
-	<title>Info ⏤𝐀 𝐋 𝐄 𝐗</title>
+	<title>Info TheAlex</title>
 </head>
 <body>
 	<div class="page-bg"></div>
@@ -25,7 +25,7 @@
 			</div>
 			<div class="after">
 				<div class="top">
-					<h1>⏤𝐀 𝐋 𝐄 𝐗<span class="small">Dev</span></h1>
+					<h1>TheAlex<span class="small">Dev</span></h1>
 					<div class="socials">
 						<a href="https://www.tiktok.com/@Alex20x7o" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
 						<a href="https://github.com/TheAlexH4K" target="_blank"><i class="fa-brands fa-github"></i></a>
